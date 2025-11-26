@@ -25,7 +25,7 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 - When the user clicks Execute, the app triggers the getUsers() function.
 - The function makes an asynchronous request to the API.
 - Once the data is received, the script iterates through the results.
-- Each user’s title + first name + last name is added to a <ul>.
+- Each user’s title + first name + last name is added to a ul.
 - The list is rendered dynamically on the page.
 
 ## Project Structure
@@ -67,7 +67,7 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 - O usuário clica no botão Executar.
 - A função getUsers() faz a requisição assíncrona à API.
 - Quando a resposta chega, o script percorre os resultados.
-- Cada usuário tem título + nome + sobrenome adicionados à <ul>.
+- Cada usuário tem título + nome + sobrenome adicionados à ul.
 - A lista é renderizada dinamicamente na página.
 
 ## Estrutura do projeto
@@ -80,3 +80,4 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 - Adicionar indicador de carregamento durante a requisição
 - Mostrar mais informações (e-mail, país, foto)
 - Permitir escolher quantos usuários buscar
+
