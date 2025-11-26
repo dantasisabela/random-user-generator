@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Simple list</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+            rel="stylesheet" 
+            integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
+            crossorigin="anonymous"
+        >
+    </head>
+
+    <body>
+    <div class="container m-2">
+        <h1>API de testes randomuser</h1>
+        <a class="btn btn-primary m-2" href="#" onclick="executar()">Executar</a>
+        <ul id="retorno"></ul>
+    </div>
+    <script src="script.js"></script>
+    <script>
+        const executar = () => {
+            getUsers("retorno");
+        }
+    </script>
+    </body>
+</html>
