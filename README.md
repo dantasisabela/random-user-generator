@@ -16,7 +16,7 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 ## Technologies Used
 
 - HTML5
-- CSS3 (via Bootstrap CDN)
+- CSS3 (Bootstrap CDN)
 - JavaScript (ES6+)
 - RandomUser API
 
@@ -38,13 +38,10 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 - Add a loading indicator during the API request
 - Display extra information (email, country, photo)
 
-## Technologies used
+## APIs & Libraries
 
-- Bootstrap 5  
-https://getbootstrap.com/
-- Random User Generator API  
-https://randomuser.me/
-
+- Bootstrap 5: https://getbootstrap.com/
+- Random User Generator API : https://randomuser.me/
 
 ----------
 
@@ -66,7 +63,7 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 ## Tecnologias utilizadas
 
 - HTML5
-- CSS3 (via Bootstrap CDN)
+- CSS3 (Bootstrap CDN)
 - JavaScript (ES6+)
 - RandomUser API
 
@@ -89,10 +86,9 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 - Mostrar mais informações (e-mail, país, foto)
 - Permitir escolher quantos usuários buscar
 
-## Tecnologias usadas
+## APIs & Bibliotecas
 
-- Bootstrap 5  
-https://getbootstrap.com/
-- Random User Generator API  
-https://randomuser.me/
+- Bootstrap 5: https://getbootstrap.com/
+- Random User Generator API: https://randomuser.me/
+
 
