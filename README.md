@@ -40,7 +40,7 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 
 ## Technologies used
 
-- Bootstrap 5 (MIT License)  
+- Bootstrap 5  
 https://getbootstrap.com/
 - Random User Generator API  
 https://randomuser.me/
@@ -91,7 +91,8 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 
 ## Tecnologias usadas
 
-- Bootstrap 5 (MIT License)  
+- Bootstrap 5  
 https://getbootstrap.com/
 - Random User Generator API  
 https://randomuser.me/
+
