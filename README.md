@@ -1,3 +1,5 @@
+## ENG:
+
 Random User List (API Fetch + JavaScript)
 
 A simple front-end project built to practice API consumption, **asynchronous JavaScript**, and **DOM manipulation**.
@@ -36,9 +38,9 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 - Add a loading indicator during the API request
 - Display extra information (email, country, photo)
 
+----------
 
-
-PT-BR:
+## PT-BR:
 
 Lista de Usuários Aleatórios (API Fetch + JavaScript)
 
