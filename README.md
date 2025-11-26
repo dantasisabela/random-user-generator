@@ -38,6 +38,14 @@ The application fetches 10 random users from the **RandomUser.me API** and displ
 - Add a loading indicator during the API request
 - Display extra information (email, country, photo)
 
+## Technologies used
+
+- Bootstrap 5 (MIT License)  
+https://getbootstrap.com/
+- Random User Generator API  
+https://randomuser.me/
+
+
 ----------
 
 ## PT-BR:
@@ -81,3 +89,9 @@ A aplicação busca 10 usuários aleatórios da **RandomUser.me API** e exibe se
 - Mostrar mais informações (e-mail, país, foto)
 - Permitir escolher quantos usuários buscar
 
+## Tecnologias usadas
+
+- Bootstrap 5 (MIT License)  
+https://getbootstrap.com/
+- Random User Generator API  
+https://randomuser.me/
